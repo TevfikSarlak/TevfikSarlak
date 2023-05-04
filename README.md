@@ -4,7 +4,7 @@ Hi 👋 My name is Tevfik Şarlak
 Software Developer & Mathematician
 ----------------------------------
 
-Hey everyone!, 
+Hey everyone!, <br></br>
      As a mathematician with a passion for technology and programming, I've developed a solid foundation in programming through my university curriculum. After more than ten years of working as a math teacher, I realized my true passion lies in programming and decided to learn Python. Taking the next step in my career, I delved into web development, starting with the basics of HTML, CSS, and JavaScript. As I progressed, I continued to challenge myself by learning new web libraries and frameworks. I've worked with Tailwindcss and ReactJS, and I'm currently focusing on becoming an expert in ReactJS, taking on various projects to improve my skills.<br></br>
 I am also passionate about backend development and aspire to learn more about Node.js, Django, and PHP to enhance my skills and knowledge. In the future, I plan to work on projects related to blockchain and Web3.<br></br>
 With my strong foundation in programming and my enthusiasm for learning new technologies, I am confident in my ability to tackle any challenging project or collaboration in the tech industry. <br></br>
