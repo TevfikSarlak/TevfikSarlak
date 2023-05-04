@@ -4,7 +4,17 @@ Hi 👋 My name is Tevfik Şarlak
 Software Developer & Mathematician
 ----------------------------------
 
-Hey everyone!, As a mathematician with a passion for technology and programming, I've developed a solid foundation in programming through my university curriculum. After more than ten years of working as a math teacher, I realized my true passion lies in programming and decided to learn Python. Taking the next step in my career, I delved into web development, starting with the basics of HTML, CSS, and JavaScript. As I progressed, I continued to challenge myself by learning new web libraries and frameworks. I've worked with Tailwindcss and ReactJS, and I'm currently focusing on becoming an expert in ReactJS, taking on various projects to improve my skills. I am also passionate about backend development and aspire to learn more about Node.js, Django, and PHP to enhance my skills and knowledge. In the future, I plan to work on projects related to blockchain and Web3. With my strong foundation in programming and my enthusiasm for learning new technologies, I am confident in my ability to tackle any challenging project or collaboration in the tech industry. I'm always looking for new challenges and opportunities in the tech industry, and I'm excited to bring my skills and knowledge to new projects and collaborations. Please feel free to explore my Github profile and reach out to me with any questions or potential opportunities.
+<p><!-- BEGINNING OF FIRST PARAGRAPH -->
+  I'm Tevfik, a mathematician looking to break into the tech industry. Although my university curriculum included courses in programming with Java and C++, my passion for programming didn't truly ignite until I started learning Python on my own. After teaching math for over ten years, I realized that I had a deep interest in software development and wanted to pursue it further. 
+</p><!-- END OF FIRST PARAGRAPH -->
+
+<p><!-- BEGINNING OF SECOND PARAGRAPH -->
+  Since then, I've been teaching myself web development, starting with the basics of HTML, CSS, and JavaScript. I've since moved on to exploring libraries like Tailwindcss and ReactJS, which I've been working with extensively to build my skills. My goal is to continue improving my expertise in ReactJS by working on more projects in this area. 
+</p><!-- END OF SECOND PARAGRAPH -->
+
+<p><!-- BEGINNING OF THIRD PARAGRAPH -->
+  Moving forward, I'm excited to learn more about backend technologies, including Node.js, Django, and PHP. I believe that gaining these skills will be crucial in helping me contribute to larger-scale projects. Ultimately, I hope to tackle challenges related to blockchain and Web3, so I can apply my passion for programming to emerging technologies with the potential to revolutionize industries. 
+</p><!-- END OF THIRD PARAGRAPH -->
 
 * 🌍  I'm based in Antalya, Turkey
 * ✉️  You can contact me at [tevfiksarlak@gmail.com](mailto:tevfiksarlak@gmail.com)
