@@ -19,7 +19,7 @@ Software Developer & Mathematician
 * 🌍  I'm based in Antalya, Turkey
 * ✉️  You can contact me at [tevfiksarlak@gmail.com](mailto:tevfiksarlak@gmail.com)
 * 🚀  I'm currently working on [Fridgezy](https://fridgezy-k5n2.vercel.app/)
-* 🧠  I'm learning React Router
+* 🧠  I'm learning TypeScript
 
 ### Skills
 
